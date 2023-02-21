@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuggestionAppUI", "SuggestionAppUI\SuggestionAppUI.csproj", "{354AE3FA-2135-4509-AE26-427091513147}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuggestionAppLibrary", "SuggestionAppLibrary\SuggestionAppLibrary.csproj", "{A777CFC3-A332-4456-94B0-45B938050F2E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{62FE6C81-B75C-4615-9C7D-3A6ADF9F18A5}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{354AE3FA-2135-4509-AE26-427091513147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{354AE3FA-2135-4509-AE26-427091513147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{354AE3FA-2135-4509-AE26-427091513147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{354AE3FA-2135-4509-AE26-427091513147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A777CFC3-A332-4456-94B0-45B938050F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A777CFC3-A332-4456-94B0-45B938050F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A777CFC3-A332-4456-94B0-45B938050F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A777CFC3-A332-4456-94B0-45B938050F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74B8412B-0F42-4A04-B96E-1E234213AB7C}
+	EndGlobalSection
+EndGlobal
